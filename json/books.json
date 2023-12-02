@@ -1,14 +1,1 @@
-[
-  {
-    "name":"xiyouji.txt",
-    "url":"https://divaid.github.io/resources/books/xiyouji.txt"
-  },
-  {
-    "name":"nashannarennagou.txt",
-    "url":"https://divaid.github.io/resources/books/nashannarennagou.txt"
-  },
-  {
-    "name":"guaimomotou.pdf",
-    "url":"https://divaid.github.io/resources/books/guaimomotou.pdf"
-  },
-]
+[{"name":"xiyouji.txt","url":"https://divaid.github.io/resources/books/xiyouji.txt"},{"name":"nashannarennagou.txt","url":"https://divaid.github.io/resources/books/nashannarennagou.txt"},{"name":"guaimomotou.pdf","url":"https://divaid.github.io/resources/books/guaimomotou.pdf"}]
